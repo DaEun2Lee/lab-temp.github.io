@@ -691,3 +691,16 @@
   publisher: '특허청 (KOREAN INTELLECTUAL PROPERTY OFFICE)'
   date: '2026-01-09'
   link: http://www.kipris.or.kr/khome/main.jsp
+
+- id: doi:10.1016/j.icte.2026.04.006
+  title: 'LatScope: End-to-end latency decomposition across the cloud network stack'
+  authors:
+  - Bongwon Lee
+  - Yunseo Jeong
+  - Woongsub Shin
+  - Sangtae Ha
+  - Youngbin Im
+  image: images/publications/paper_2026_ICTE_j.icte.2026.04.006.jpg
+  publisher: ICT Express
+  date: '2026-04-16'
+  link: https://www.sciencedirect.com/science/article/pii/S2405959526000676
