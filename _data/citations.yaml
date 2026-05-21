@@ -769,3 +769,17 @@
   image: images/publications/patent_2026_102912524.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.icte.2026.04.006
+  title: 'LatScope: End-to-end latency decomposition across the cloud network stack'
+  authors:
+  - Bongwon Lee
+  - Yunseo Jeong
+  - Woongsub Shin
+  - Sangtae Ha
+  - Youngbin Im
+  publisher: ICT Express
+  date: '2026-04-16'
+  link: https://www.sciencedirect.com/science/article/pii/S2405959526000676
+  image: images/publications/paper_2026_ICTE_j.icte.2026.04.006.jpg
+  plugin: sources.py
+  file: sources.yaml
